@@ -1,0 +1,6 @@
+{
+  "name": "Chanchito Escape",
+  "description": "Juego de plataformas en 2D donde un simpático cerdito huye de la granja con saltos innovadores, proyectiles y batallas contra jefes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
